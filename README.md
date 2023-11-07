@@ -1,2 +1,2 @@
 # Hola-mundo
-Mi pimer repositorio de git-hub a
+Mi pimer repositorio de git-hub
